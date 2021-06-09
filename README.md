@@ -2,6 +2,8 @@
 
 게임공학_2021 Team.4
 
+![Menu](https://user-images.githubusercontent.com/30585314/121350090-326fce00-c965-11eb-8327-9a4b08c512a0.PNG)
+
 ## 장르
 - 시야를 활용한 1인칭 퍼즐 어드벤처
 
