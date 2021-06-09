@@ -1,7 +1,7 @@
 # Overlap
 
 게임공학_2021 Team.4
-- 김경민 : httpsL//github.com/CritBear
+- 김경민 : https://github.com/CritBear
 - 김현우 : https://github.com/MNGJ
 
 ![Menu](https://user-images.githubusercontent.com/30585314/121350090-326fce00-c965-11eb-8327-9a4b08c512a0.PNG)
