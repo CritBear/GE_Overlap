@@ -6,6 +6,8 @@
 - 강지민 : https://github.com/Jimin611
 
 ![Menu](https://user-images.githubusercontent.com/30585314/121350090-326fce00-c965-11eb-8327-9a4b08c512a0.PNG)
+![gif2](https://user-images.githubusercontent.com/83454721/121376499-8df98600-c97c-11eb-89d3-50234bd2d895.gif)
+![gif1](https://user-images.githubusercontent.com/83454721/121376572-9c47a200-c97c-11eb-9d1e-a226aa61baf3.gif)
 
 ---
 ## 장르
