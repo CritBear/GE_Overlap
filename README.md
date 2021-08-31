@@ -7,6 +7,8 @@ Download Game : https://github.com/CritBear/GE_Overlap/releases
 - 강지민 : https://github.com/Jimin611
 
 ![Menu](https://user-images.githubusercontent.com/30585314/121350090-326fce00-c965-11eb-8327-9a4b08c512a0.PNG)
+![enemy_pathfinding](https://user-images.githubusercontent.com/30585314/131432939-8f4f4a1c-c6bb-4313-85aa-d4ffb3b745da.gif)
+
 
 ##  GAME PLAY
 ![gif2](https://user-images.githubusercontent.com/83454721/121376499-8df98600-c97c-11eb-89d3-50234bd2d895.gif)
